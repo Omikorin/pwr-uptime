@@ -1,26 +1,119 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Omikorin # Your GitHub organization or username, where this repository lives
+repo: pwr-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Akademicki Inkubator Przedsiębiorczości
+    url: https://inkubator.pwr.edu.pl
+  - name: Biblioteka
+    url: https://biblioteka.pwr.edu.pl
+  - name: Biuletyn Informacji Publicznej
+    url: https://bip.pwr.edu.pl
+  - name: Biuro Karier
+    url: https://biurokarier.pwr.edu.pl
+  - name: Centrum Doskonałości Dydaktycznej
+    url: https://cdd.pwr.edu.pl
+  - name: Centrum Innowacji i Biznesu
+    url: https://biznes.pwr.edu.pl
+  - name: Doktoranci
+    url: https://doktoranci.pwr.edu.pl
+  - name: Dział Dostępności i Wsparcia Osób z Niepełnosprawnościami
+    url: https://ddo.pwr.edu.pl
+  - name: Dział Informatyzacji
+    url: https://di.pwr.edu.pl
+  - name: Dział Kształcenia Podyplomowego i E-learningu
+    url: https://cku.pwr.edu.pl
+  - name: Dział Nauki
+    url: https://nauka.pwr.edu.pl
+  - name: Dział Projektów
+    url: https://dp.pwr.edu.pl
+  - name: Dział Studencki
+    url: https://dzialstudencki.pwr.edu.pl
+  - name: Dział Zakupów i Zamówień Publicznych
+    url: https://przetargi.pwr.edu.pl
+  - name: Edukacja.CL
+    url: https://edukacja.pwr.wroc.pl
+  - name: Elektroniczna Karta Pracownicza
+    url: https://ekp.pwr.edu.pl
+  - name: Elektroniczna Książka Telefoniczna
+    url: https://ekt.pwr.edu.pl
+  - name: Elektroniczny Monitoring Umów 
+    url: https://emu.pwr.edu.pl
+  - name: ePortal
+    url: https://eportal.pwr.edu.pl
+  - name: Intranet
+    url: https://intranet.pwr.edu.pl
+  - name: JSOS
+    url: https://jsos.pwr.edu.pl
+  - name: Oferty Pracy
+    url: https://ofertypracy.pwr.edu.pl
+  - name: Pion Prorektora ds. Kształcenia
+    url: https://prk.pwr.edu.pl
+  - name: Pion Prorektora ds. Studenckich
+    url: https://prs.pwr.edu.pl
+  - name: Poczta Pracownicza (przestarzała)
+    url: https://e.pwr.edu.pl/
+  - name: Poczta Pracownicza (przestarzała, nie działa)
+    url: https://pmail.pwr.edu.pl
+  - name: Poczta Studencka (przestarzała, nie działa)
+    url: https://s.student.pwr.edu.pl
+  - name: Poczta WCSS
+    url: https://poczta.wcss.pl
+  - name: Politechnika Wrocławska
+    url: https://pwr.edu.pl
+  - name: Poradnia Psychologiczna
+    url: https://ppp.pwr.edu.pl
+  - name: Rada Doktorantów
+    url: https://radadoktorantow.pwr.edu.pl
+  - name: Rada Jakości Kształcenia
+    url: https://rjk.pwr.edu.pl
+  - name: Rekrutacja
+    url: https://rekrutacja.pwr.edu.pl
+  - name: Samorząd Studencki
+    url: https://samorzad.pwr.edu.pl
+  - name: Studium Języków Obcych
+    url: https://sjo.pwr.edu.pl
+  - name: Studium Wychowania Fizycznego i Sportu
+    url: https://swfis.pwr.edu.pl
+  - name: Szkoła Doktorska
+    url: https://szd.pwr.edu.pl
+  - name: USOS
+    url: https://web.usos.pwr.edu.pl
+  - name: Wydział Architektury
+    url: https://wa.pwr.edu.pl
+  - name: Wydział Budownictwa Lądowego i Wodnego
+    url: https://wbliw.pwr.edu.pl
+  - name: Wydział Chemiczny
+    url: https://wch.pwr.edu.pl
+  - name: Wydział Informatyki i Telekomunikacji
+    url: https://wit.pwr.edu.pl
+  - name: Wydział Geoinżynierii, Górnictwa i Geologii
+    url: https://wggg.pwr.edu.pl
+  - name: Wydział Inżynierii Środowiska
+    url: https://wis.pwr.edu.pl
+  - name: Wydział Zarządzania
+    url: https://wz.pwr.edu.pl
+  - name: Wydział Mechaniczno-Energetyczny
+    url: https://wme.pwr.edu.pl
+  - name: Wydział Mechaniczny
+    url: https://wm.pwr.edu.pl
+  - name: Wydział Podstawowych Problemów Techniki
+    url: https://wppt.pwr.edu.pl
+  - name: Wydział Elektroniki, Fotoniki i Mikrosystemów
+    url: https://wefim.pwr.edu.pl
+  - name: Wydział Matematyki
+    url: https://wmat.pwr.edu.pl
+  - name: Zintegrowany System Kontroli Dostępu i Bezpieczeństwa Fizycznego
+    url: https://skd.pwr.edu.pl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.pwr.omikor.in
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Z racji, że strony uczelni często przestają działać w dowolnym momencie, powstał monitoring stanu poniższych serwisów Politechniki Wrocławskiej.
   navbar:
     - title: Status
       href: /
