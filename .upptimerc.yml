@@ -80,28 +80,40 @@ sites:
     url: https://web.usos.pwr.edu.pl
   - name: Wydział Architektury
     url: https://wa.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Budownictwa Lądowego i Wodnego
     url: https://wbliw.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Chemiczny
     url: https://wch.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Informatyki i Telekomunikacji
     url: https://wit.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Geoinżynierii, Górnictwa i Geologii
     url: https://wggg.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Inżynierii Środowiska
     url: https://wis.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Zarządzania
     url: https://wz.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Mechaniczno-Energetyczny
     url: https://wme.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Mechaniczny
     url: https://wm.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Podstawowych Problemów Techniki
     url: https://wppt.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Elektroniki, Fotoniki i Mikrosystemów
     url: https://wefim.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Wydział Matematyki
     url: https://wmat.pwr.edu.pl
+    maxResponseTime: 10000
   - name: Zintegrowany System Kontroli Dostępu i Bezpieczeństwa Fizycznego
     url: https://skd.pwr.edu.pl
 
