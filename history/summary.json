@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 390
+      "2023-03-06": 405
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 389
+      "2023-03-06": 404
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 389
+      "2023-03-06": 403
     }
   },
   {
@@ -209,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dp.pwr.edu.pl.ico",
     "slug": "dzial-projektow",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 388
+      "2023-03-06": 403
     }
   },
   {
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 388
+      "2023-03-06": 402
     }
   },
   {
@@ -285,18 +285,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ekp.pwr.edu.pl.ico",
     "slug": "elektroniczna-karta-pracownicza",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 387
+      "2023-03-06": 401
     }
   },
   {
@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 386
+      "2023-03-06": 401
     }
   },
   {
@@ -336,7 +336,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 386
+      "2023-03-06": 400
     }
   },
   {
@@ -363,18 +363,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.pwr.edu.pl.ico",
     "slug": "intranet",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 385
+      "2023-03-06": 400
     }
   },
   {
@@ -419,11 +419,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prk.pwr.edu.pl.ico",
     "slug": "pion-prorektora-ds-ksztalcenia",
     "status": "up",
-    "uptime": "73.33%",
-    "uptimeDay": "73.33%",
-    "uptimeWeek": "73.33%",
-    "uptimeMonth": "73.33%",
-    "uptimeYear": "73.33%",
+    "uptime": "74.30%",
+    "uptimeDay": "74.30%",
+    "uptimeWeek": "74.30%",
+    "uptimeMonth": "74.30%",
+    "uptimeYear": "74.30%",
     "time": 3598,
     "timeDay": 3598,
     "timeWeek": 3598,
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-06": 385
+      "2023-03-06": 399
     }
   },
   {
@@ -711,11 +711,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wa.pwr.edu.pl.ico",
     "slug": "wydzial-architektury",
     "status": "up",
-    "uptime": "65.27%",
-    "uptimeDay": "65.27%",
-    "uptimeWeek": "65.27%",
-    "uptimeMonth": "65.27%",
-    "uptimeYear": "65.27%",
+    "uptime": "66.53%",
+    "uptimeDay": "66.53%",
+    "uptimeWeek": "66.53%",
+    "uptimeMonth": "66.53%",
+    "uptimeYear": "66.53%",
     "time": 1112,
     "timeDay": 1112,
     "timeWeek": 1112,
@@ -731,11 +731,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wbliw.pwr.edu.pl.ico",
     "slug": "wydzial-budownictwa-ladowego-i-wodnego",
     "status": "up",
-    "uptime": "79.64%",
-    "uptimeDay": "79.64%",
-    "uptimeWeek": "79.64%",
-    "uptimeMonth": "79.64%",
-    "uptimeYear": "79.64%",
+    "uptime": "80.38%",
+    "uptimeDay": "80.38%",
+    "uptimeWeek": "80.38%",
+    "uptimeMonth": "80.38%",
+    "uptimeYear": "80.38%",
     "time": 1603,
     "timeDay": 1603,
     "timeWeek": 1603,
@@ -751,18 +751,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wch.pwr.edu.pl.ico",
     "slug": "wydzial-chemiczny",
     "status": "up",
-    "uptime": "46.71%",
-    "uptimeDay": "46.71%",
-    "uptimeWeek": "46.71%",
-    "uptimeMonth": "46.71%",
-    "uptimeYear": "46.71%",
+    "uptime": "46.82%",
+    "uptimeDay": "46.82%",
+    "uptimeWeek": "46.82%",
+    "uptimeMonth": "46.82%",
+    "uptimeYear": "46.82%",
     "time": 1062,
     "timeDay": 1062,
     "timeWeek": 1062,
     "timeMonth": 1062,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-03-06": 204
+      "2023-03-06": 211
     }
   },
   {
@@ -771,18 +771,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wit.pwr.edu.pl.ico",
     "slug": "wydzial-informatyki-i-telekomunikacji",
     "status": "up",
-    "uptime": "10.73%",
-    "uptimeDay": "10.73%",
-    "uptimeWeek": "10.73%",
-    "uptimeMonth": "10.73%",
-    "uptimeYear": "10.73%",
+    "uptime": "10.33%",
+    "uptimeDay": "10.33%",
+    "uptimeWeek": "10.33%",
+    "uptimeMonth": "10.33%",
+    "uptimeYear": "10.33%",
     "time": 1166,
     "timeDay": 1166,
     "timeWeek": 1166,
     "timeMonth": 1166,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2023-03-06": 342
+      "2023-03-06": 356
     }
   },
   {
@@ -791,18 +791,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wggg.pwr.edu.pl.ico",
     "slug": "wydzial-geoinzynierii-gornictwa-i-geologii",
     "status": "up",
-    "uptime": "78.95%",
-    "uptimeDay": "78.95%",
-    "uptimeWeek": "78.95%",
-    "uptimeMonth": "78.95%",
-    "uptimeYear": "78.95%",
+    "uptime": "78.06%",
+    "uptimeDay": "78.06%",
+    "uptimeWeek": "78.06%",
+    "uptimeMonth": "78.06%",
+    "uptimeYear": "78.06%",
     "time": 2940,
     "timeDay": 2940,
     "timeWeek": 2940,
     "timeMonth": 2940,
     "timeYear": 2940,
     "dailyMinutesDown": {
-      "2023-03-06": 81
+      "2023-03-06": 88
     }
   },
   {
@@ -811,18 +811,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wis.pwr.edu.pl.ico",
     "slug": "wydzial-inzynierii-srodowiska",
     "status": "up",
-    "uptime": "52.04%",
-    "uptimeDay": "52.04%",
-    "uptimeWeek": "52.04%",
-    "uptimeMonth": "52.04%",
-    "uptimeYear": "52.04%",
+    "uptime": "52.27%",
+    "uptimeDay": "52.27%",
+    "uptimeWeek": "52.27%",
+    "uptimeMonth": "52.27%",
+    "uptimeYear": "52.27%",
     "time": 980,
     "timeDay": 980,
     "timeWeek": 980,
     "timeMonth": 980,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2023-03-06": 183
+      "2023-03-06": 189
     }
   },
   {
@@ -831,11 +831,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wz.pwr.edu.pl.ico",
     "slug": "wydzial-zarzadzania",
     "status": "up",
-    "uptime": "85.96%",
-    "uptimeDay": "85.96%",
-    "uptimeWeek": "85.96%",
-    "uptimeMonth": "85.96%",
-    "uptimeYear": "85.96%",
+    "uptime": "86.48%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "86.48%",
+    "uptimeMonth": "86.48%",
+    "uptimeYear": "86.48%",
     "time": 938,
     "timeDay": 938,
     "timeWeek": 938,
@@ -851,11 +851,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wme.pwr.edu.pl.ico",
     "slug": "wydzial-mechaniczno-energetyczny",
     "status": "up",
-    "uptime": "61.35%",
-    "uptimeDay": "61.35%",
-    "uptimeWeek": "61.35%",
-    "uptimeMonth": "61.35%",
-    "uptimeYear": "61.35%",
+    "uptime": "62.77%",
+    "uptimeDay": "62.77%",
+    "uptimeWeek": "62.77%",
+    "uptimeMonth": "62.77%",
+    "uptimeYear": "62.77%",
     "time": 2528,
     "timeDay": 2528,
     "timeWeek": 2528,
@@ -871,11 +871,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wm.pwr.edu.pl.ico",
     "slug": "wydzial-mechaniczny",
     "status": "up",
-    "uptime": "61.50%",
-    "uptimeDay": "61.50%",
-    "uptimeWeek": "61.50%",
-    "uptimeMonth": "61.50%",
-    "uptimeYear": "61.50%",
+    "uptime": "62.92%",
+    "uptimeDay": "62.92%",
+    "uptimeWeek": "62.92%",
+    "uptimeMonth": "62.92%",
+    "uptimeYear": "62.92%",
     "time": 1164,
     "timeDay": 1164,
     "timeWeek": 1164,
@@ -890,17 +890,17 @@
     "url": "https://wppt.pwr.edu.pl",
     "icon": "https://icons.duckduckgo.com/ip3/wppt.pwr.edu.pl.ico",
     "slug": "wydzial-podstawowych-problemow-techniki",
-    "status": "down",
-    "uptime": "44.78%",
-    "uptimeDay": "44.78%",
-    "uptimeWeek": "44.78%",
-    "uptimeMonth": "44.78%",
-    "uptimeYear": "44.78%",
-    "time": 1164,
-    "timeDay": 1164,
-    "timeWeek": 1164,
-    "timeMonth": 1164,
-    "timeYear": 1164,
+    "status": "up",
+    "uptime": "46.80%",
+    "uptimeDay": "46.80%",
+    "uptimeWeek": "46.80%",
+    "uptimeMonth": "46.80%",
+    "uptimeYear": "46.80%",
+    "time": 1158,
+    "timeDay": 1158,
+    "timeWeek": 1158,
+    "timeMonth": 1158,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2023-03-06": 210
     }
@@ -911,11 +911,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wefim.pwr.edu.pl.ico",
     "slug": "wydzial-elektroniki-fotoniki-i-mikrosystemow",
     "status": "up",
-    "uptime": "86.24%",
-    "uptimeDay": "86.24%",
-    "uptimeWeek": "86.24%",
-    "uptimeMonth": "86.24%",
-    "uptimeYear": "86.24%",
+    "uptime": "86.75%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "86.75%",
+    "uptimeMonth": "86.75%",
+    "uptimeYear": "86.75%",
     "time": 4760,
     "timeDay": 4760,
     "timeWeek": 4760,
@@ -930,17 +930,17 @@
     "url": "https://wmat.pwr.edu.pl",
     "icon": "https://icons.duckduckgo.com/ip3/wmat.pwr.edu.pl.ico",
     "slug": "wydzial-matematyki",
-    "status": "down",
-    "uptime": "51.50%",
-    "uptimeDay": "51.50%",
-    "uptimeWeek": "51.50%",
-    "uptimeMonth": "51.50%",
-    "uptimeYear": "51.50%",
-    "time": 2152,
-    "timeDay": 2152,
-    "timeWeek": 2152,
-    "timeMonth": 2152,
-    "timeYear": 2152,
+    "status": "up",
+    "uptime": "53.29%",
+    "uptimeDay": "53.29%",
+    "uptimeWeek": "53.29%",
+    "uptimeMonth": "53.29%",
+    "uptimeYear": "53.29%",
+    "time": 1826,
+    "timeDay": 1826,
+    "timeWeek": 1826,
+    "timeMonth": 1826,
+    "timeYear": 1826,
     "dailyMinutesDown": {
       "2023-03-06": 184
     }
