@@ -10,26 +10,8 @@ sites:
     url: https://bip.pwr.edu.pl
   - name: Biuro Karier
     url: https://biurokarier.pwr.edu.pl
-  - name: Centrum Doskonałości Dydaktycznej
-    url: https://cdd.pwr.edu.pl
-  - name: Centrum Innowacji i Biznesu
-    url: https://biznes.pwr.edu.pl
   - name: Doktoranci
     url: https://doktoranci.pwr.edu.pl
-  - name: Dział Dostępności i Wsparcia Osób z Niepełnosprawnościami
-    url: https://ddo.pwr.edu.pl
-  - name: Dział Informatyzacji
-    url: https://di.pwr.edu.pl
-  - name: Dział Kształcenia Podyplomowego i E-learningu
-    url: https://cku.pwr.edu.pl
-  - name: Dział Nauki
-    url: https://nauka.pwr.edu.pl
-  - name: Dział Projektów
-    url: https://dp.pwr.edu.pl
-  - name: Dział Studencki
-    url: https://dzialstudencki.pwr.edu.pl
-  - name: Dział Zakupów i Zamówień Publicznych
-    url: https://przetargi.pwr.edu.pl
   - name: Edukacja.CL
     url: https://edukacja.pwr.wroc.pl
   - name: Elektroniczna Karta Pracownicza
@@ -40,14 +22,10 @@ sites:
     url: https://emu.pwr.edu.pl
   - name: ePortal
     url: https://eportal.pwr.edu.pl
-  - name: Intranet
-    url: https://intranet.pwr.edu.pl
   - name: JSOS
     url: https://jsos.pwr.edu.pl
   - name: Oferty Pracy
     url: https://ofertypracy.pwr.edu.pl
-  - name: Pion Prorektora ds. Kształcenia
-    url: https://prk.pwr.edu.pl
   - name: Pion Prorektora ds. Studenckich
     url: https://prs.pwr.edu.pl
   - name: Poczta Pracownicza (przestarzała)
@@ -62,58 +40,14 @@ sites:
     url: https://pwr.edu.pl
   - name: Poradnia Psychologiczna
     url: https://ppp.pwr.edu.pl
-  - name: Rada Doktorantów
-    url: https://radadoktorantow.pwr.edu.pl
-  - name: Rada Jakości Kształcenia
-    url: https://rjk.pwr.edu.pl
   - name: Rekrutacja
     url: https://rekrutacja.pwr.edu.pl
   - name: Samorząd Studencki
     url: https://samorzad.pwr.edu.pl
   - name: Studium Języków Obcych
     url: https://sjo.pwr.edu.pl
-  - name: Studium Wychowania Fizycznego i Sportu
-    url: https://swfis.pwr.edu.pl
-  - name: Szkoła Doktorska
-    url: https://szd.pwr.edu.pl
   - name: USOS
     url: https://web.usos.pwr.edu.pl
-  - name: Wydział Architektury
-    url: https://wa.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Budownictwa Lądowego i Wodnego
-    url: https://wbliw.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Chemiczny
-    url: https://wch.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Informatyki i Telekomunikacji
-    url: https://wit.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Geoinżynierii, Górnictwa i Geologii
-    url: https://wggg.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Inżynierii Środowiska
-    url: https://wis.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Zarządzania
-    url: https://wz.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Mechaniczno-Energetyczny
-    url: https://wme.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Mechaniczny
-    url: https://wm.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Podstawowych Problemów Techniki
-    url: https://wppt.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Elektroniki, Fotoniki i Mikrosystemów
-    url: https://wefim.pwr.edu.pl
-    maxResponseTime: 10000
-  - name: Wydział Matematyki
-    url: https://wmat.pwr.edu.pl
-    maxResponseTime: 10000
   - name: Zintegrowany System Kontroli Dostępu i Bezpieczeństwa Fizycznego
     url: https://skd.pwr.edu.pl
 
